@@ -1,0 +1,5 @@
+markdown: redcarpet
+url: http://nega.love 
+exclude: ['README.md']
+repository: lunafranklun/nega.love 
+theme: null
